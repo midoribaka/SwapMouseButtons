@@ -1,2 +1,2 @@
 # SwapMouseButtons
-Swap mouse button while pressing space
+Swap mouse buttons while pressing space
